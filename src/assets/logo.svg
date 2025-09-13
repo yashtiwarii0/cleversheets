@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#4a6fa5" />
+  
+  <!-- Notebook Pages -->
+  <rect x="50" y="40" width="100" height="120" rx="5" ry="5" fill="#ffffff" />
+  
+  <!-- Notebook Spiral -->
+  <path d="M50 50 Q45 50, 45 55 Q45 60, 50 60 M50 70 Q45 70, 45 75 Q45 80, 50 80 M50 90 Q45 90, 45 95 Q45 100, 50 100 M50 110 Q45 110, 45 115 Q45 120, 50 120 M50 130 Q45 130, 45 135 Q45 140, 50 140" stroke="#4fc3a1" stroke-width="3" fill="none" />
+  
+  <!-- Notebook Lines -->
+  <line x1="60" y1="60" x2="140" y2="60" stroke="#e9ecef" stroke-width="2" />
+  <line x1="60" y1="80" x2="140" y2="80" stroke="#e9ecef" stroke-width="2" />
+  <line x1="60" y1="100" x2="140" y2="100" stroke="#e9ecef" stroke-width="2" />
+  <line x1="60" y1="120" x2="140" y2="120" stroke="#e9ecef" stroke-width="2" />
+  
+  <!-- Question Mark -->
+  <path d="M100 140 Q115 140, 115 125 Q115 115, 105 115 Q95 115, 95 105 Q95 95, 105 95 Q120 95, 120 110" stroke="#166088" stroke-width="6" fill="none" stroke-linecap="round" />
+  <circle cx="100" cy="150" r="3" fill="#166088" />
+  
+  <!-- Text -->
+  <text x="100" y="180" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">CleverSheets</text>
+</svg>
