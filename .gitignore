@@ -18,7 +18,7 @@ dist-ssr
 
 # Environment variables
 
-/server/.env
+/server
 
 # Temporary files
 /server/uploads
